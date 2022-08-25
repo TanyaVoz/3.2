@@ -1,0 +1,23 @@
+{
+  "name": "3.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanyaVoz/3.2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanyaVoz/3.2/issues"
+  },
+  "homepage": "https://github.com/TanyaVoz/3.2#readme",
+  "dependencies": {
+    "@tanyavoz/ajs": "^1.0.0"
+  }
+}
